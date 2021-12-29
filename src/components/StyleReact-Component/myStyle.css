@@ -1,0 +1,8 @@
+.container{
+    color: orange;
+    display: flex;
+    font-size: x-large;
+}
+.font-xl{
+    font-size: 80px;
+}

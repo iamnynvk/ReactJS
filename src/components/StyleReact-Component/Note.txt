@@ -1,0 +1,8 @@
+There are 4 type of Styling react Component
+
+1. CSS Stylesheet
+2. Inline Style
+3. CSS Modules
+4. CSS JS Library
+
+we can watch 3 approch

@@ -1,0 +1,7 @@
+Conditional Rendering 
+
+there are 4 approch of Conditional Rendering
+1) If/Else Rendering
+2) Element Variable
+3) Ternary Conditional Operator 
+4) Short circuit Operator
